@@ -1,1 +1,1 @@
-![Logo] (assets/gitLogo.png)
+![Logo](assets/gitLogo.png)
